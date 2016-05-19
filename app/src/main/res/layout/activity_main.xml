@@ -86,6 +86,7 @@
         android:id="@+id/button"
         android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/textView"
+        android:onClick="searchForDevice"
         android:layout_alignEnd="@+id/textView" />
 
     <Button
